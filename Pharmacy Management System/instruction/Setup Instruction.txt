@@ -1,0 +1,22 @@
+Setup Instructions
+
+1.Extract the Pharmacy management system source code file and save it on your desktop.
+2.Open NetBeans IDE and open previously extracted project.
+3.Go to the XAMPP and connect NetBeans & MYSQL.
+4.Go your usual web browser and search (local host).Then, go to the PhpMyAdmin and import the MYSQL file.
+5.Go to the NetBeans and create a new database connection.
+6.Remove SQL connection which is included in DBconnect class inside of the package called codes and replace it with newly created connection.
+7.If you want to connect jasper too, you might have to change the location path.
+8.You might have to import few JAR files to your library for trouble shooting of codes and run the system.
+9.If you want to change jasper report structure you might have to download jasper 6.21.3.
+ 
+
+
+
+Here I attached the google drive link to the folder for downloading the JAR files-"https://drive.google.com/drive/folders/10By43Bv8XE_jDkU2Zh3r7K0XyMvncBPC?usp=drive_link"
+
+
+
+**i forgot to change my project name to pharmacymanagement system its foldername is  studentmanagementsystem**
+**systems uid = "abs" **
+          upw = "123" **
